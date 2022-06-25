@@ -1,0 +1,2 @@
+# DjangoCRUD
+Zuri django task
